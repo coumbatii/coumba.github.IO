@@ -1,0 +1,30 @@
+.container {
+    display: flex;
+}
+
+.table1{
+    border-collapse: collapse;
+    border: 1px solid black;
+    margin-right: 10px;
+    background-color: rgb(238, 158, 158);
+    
+}
+
+.table2 {
+    border-collapse: collapse;
+    border: 1px solid black;
+    margin-right: 10px;
+    background-color: rgb(131, 175, 131);
+    
+}
+.table3 {
+    border-collapse: collapse;
+    border: 1px solid black;
+    margin-right: 10px;
+    background-color: rgba(241, 221, 152, 0.39);
+    
+}
+h1{
+    text-align: center;
+}
+
